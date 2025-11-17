@@ -61,18 +61,18 @@
         {
           "type": "text",
           "from": 45,
-          "to": 93,
-          "text": ". Sure, there are all kind of basic text styles "
+          "to": 106,
+          "text": ". Sure, there are all kind of basic and advanced text styles "
         },
         {
           "type": "PageBreak",
-          "from": 94,
-          "to": 95
+          "from": 107,
+          "to": 108
         },
         {
           "type": "text",
           "from": 95,
-          "to": 170,
+          "to": 203,
           "text": "you’d probably expect from a text editor. But wait until you see the lists:"
         }
       ]
